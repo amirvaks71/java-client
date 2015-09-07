@@ -1,6 +1,8 @@
 java-client
 ===========
 
+[![Join the chat at https://gitter.im/amirvaks71/java-client](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/amirvaks71/java-client?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Java language binding for writing Appium Tests, conforms to [Mobile JSON Wire Protocol](https://code.google.com/p/selenium/source/browse/spec-draft.md?repo=mobile)
 
 Depends upon the Selenium Java client library, available [here](http://docs.seleniumhq.org/download/)
